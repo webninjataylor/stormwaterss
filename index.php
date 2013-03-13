@@ -11,6 +11,7 @@
     <article>
         <h1>Under Construction</h1>
         <p>This website template is mobile-friendly. It's using a responsive design to be flexible enough for handling iPhone portrait and landscape views as well as iPad portrait and landscape views.</p>
+        <p>Test</p>
     </article>
     <?php include('includes/footer.php'); ?>
 </body>
