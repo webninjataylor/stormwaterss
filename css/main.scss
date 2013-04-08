@@ -7,8 +7,7 @@ $blackish: #000000;
 
 body {
     background-color: $dark_blue;
-    border: 1px solid $blackish;
-    box-shadow: 0px 0px 5px 5px rgba(136, 136, 136, .5);
+    background: $dark_blue url('../images/background.jpg') no-repeat top center;
     margin: 10px auto;
     position: relative;
     width: 960px;
@@ -18,27 +17,37 @@ body {
 /************************/
 header {
     background-color: $whiteish;
-    border-bottom: 1px solid $blackish;
     color: $dark_blue;
+    height: 110px;
     margin: 0;
     position: relative;
+    width: 960px;
 }
 header img#logo {
     background-color: $whiteish;
+    float: left;
     padding: 10px;
-    width: 100px;
+    width: 400px;
 }
-#company {
-    display: inline-block;
-    font-size: 36px;
-    font-weight: bold;
+#cycler {
+    float: right;
+    height: 110px;
+    width: 535px;
+}
+#cycler img {
+    position: absolute;
+    z-index: 1;
+}
+#cycler img.active {
+    z-index: 3;
 }
 /**********************/
 /******** MENU ********/
 /**********************/
 menu {
     background-color: $dark_blue;
-    border-right: 1px $blackish solid;
+    border: 1px $blackish solid;
+    border-bottom: none;
     color: $whiteish;
     float: left;
     font-family: sans-serif;
@@ -47,7 +56,7 @@ menu {
     height: 100%;
     left: 0;
     list-style: none;
-    margin: 0;
+    margin: 10px 10px 0 0;
     padding: 0;
     width: 138px;
 }
@@ -60,7 +69,7 @@ menu li a,
 menu li a:visited {
     color: #ffffff;
     display: block;
-    padding: 5px;
+    padding: 8px;
     width: 138px;
 }
 menu li:hover {
@@ -125,9 +134,11 @@ article {
     float: right;
     line-height: 1.5;
     /*min-height: 610px;*/
+    margin: 10px 0 0 0;
+    opacity: .8;
     padding: 30px 61px 30px 30px;
     text-align: justify;
-    width: 730px;
+    width: 719px;
 }
 article p,
 article li {
@@ -136,11 +147,17 @@ article li {
 }
 article ul {
     margin-left: 30px;
+    text-align: left;
 }
 article ul li {
-    background: url('../images/bullet2.gif') no-repeat 0 3px;
+    background: url('../images/bullet.png') no-repeat 0 3px;
     list-style-type: none;
     padding-left: 20px;
+}
+.content_image {
+    float: right;
+    margin: 0 0 5px 20px;
+    width: 360px;
 }
 a.social-media {
     background:transparent url(../images/social-media-icons.png) 0 0 no-repeat;
@@ -156,30 +173,21 @@ a.li {background-position:0 -194px;}   /* li = LinkedIn */
 /******** FOOTER ********/
 /************************/
 footer {
-    background-color: $dark_blue;
-    border-top: 1px solid $whiteish;
+    background-color: $whiteish;
     clear: both;
-    color: $whiteish;
+    color: $blackish;
     font-size: .9em;
+    opacity: .8;
+    margin: 0 0 20px 150px;
     padding: 20px;
     position: relative;
-    text-align: center;
-
-    background: rgb(125,126,125); /* Old browsers */
-    background: -moz-linear-gradient(45deg,  rgba(125,126,125,1) 0%, rgba(14,14,14,1) 100%); /* FF3.6+ */
-    background: -webkit-gradient(linear, left bottom, right top, color-stop(0%,rgba(125,126,125,1)), color-stop(100%,rgba(14,14,14,1))); /* Chrome,Safari4+ */
-    background: -webkit-linear-gradient(45deg,  rgba(125,126,125,1) 0%,rgba(14,14,14,1) 100%); /* Chrome10+,Safari5.1+ */
-    background: -o-linear-gradient(45deg,  rgba(125,126,125,1) 0%,rgba(14,14,14,1) 100%); /* Opera 11.10+ */
-    background: -ms-linear-gradient(45deg,  rgba(125,126,125,1) 0%,rgba(14,14,14,1) 100%); /* IE10+ */
-    background: linear-gradient(45deg,  rgba(125,126,125,1) 0%,rgba(14,14,14,1) 100%); /* W3C */
-    filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#7d7e7d', endColorstr='#0e0e0e',GradientType=1 ); /* IE6-9 fallback on horizontal gradient */
-
+    top: 10px;
 }
 .copyright {
     font-size: .7em;
 }
 footer a, footer a:visited {
-    color: #ffffff;
+    color: $blackish;
 }
 footer a:hover {
     color: #661a03;
