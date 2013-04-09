@@ -30,6 +30,6 @@ function cycleImages(){
 }
 
 $(document).ready(function(){
-	// run every 7s
-	setInterval('cycleImages()', 7000);
+	// run every 3s
+	setInterval('cycleImages()', 3000);
 });
