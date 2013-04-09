@@ -10,8 +10,7 @@
     <?php include('includes/menu.php'); ?>
     <article>
         <h1>Project Portfolio</h1>
-        <p>CONTENT</p>
-        <p>Tiered Bioretention Facility</p>
+        <p>Coming April 10, 2013</p>
     </article>
     <?php include('includes/footer.php'); ?>
 </body>
