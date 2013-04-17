@@ -50,9 +50,6 @@
         <h2>Rainwater Harvesting System for Fire Station</h2>
         <p>A retrofit rainwater harvesting system was designed for a fire station in Raleigh, NC for washing fire trucks. The tanks were designed with a wood wrap and metal roof to improve aesthetic appearances.  Kathy provided design and construction oversight services for the project.</p>
 
-        <h2>Residential Rain Garden</h2>
-        <p></p>
-
         <h2>Urban Stormwater Retrofit Feasibility &amp; Economic Study</h2>
         <p>Kathy was project lead on a multi-municipality feasibility study conducted in North Carolina. The following verbiage was taken from the <a href="http://www.ncsu.edu/wrri/pdfs/research/Projects2008/50382HuntReport.pdf">final project report</a>, which was written by Kathy and Dr. Bill Hunt.</p>
         <block>
