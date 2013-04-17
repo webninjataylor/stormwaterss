@@ -11,3 +11,4 @@
 <meta property="og:site_name" content="SITE_NAME" />
 <!-- CSS and Initial JS -->
 <link rel="stylesheet" href="css/main.css?cachebust=1"><!-- reset.css gets concatenated and minified automatically -->
+<!--[if lt IE 9]><script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script><![endif]-->

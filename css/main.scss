@@ -123,6 +123,7 @@ h1 {
 }
 h2 {
     border-bottom: 1px solid #333;
+    clear: both;
     font-size: 1em;
     margin-top: 40px;
 }
@@ -133,6 +134,7 @@ h3 {
     font-size: 1em;
 }
 article {
+    background-color: rgb(255,255,255);
     background-color: rgba(255,255,255,0.6);
     float: right;
     line-height: 1.5;
@@ -165,13 +167,17 @@ article a:hover {
     text-decoration: underline;
 }
 .content_image,
-.cycler_inline {
+.cycler_inline,
+.cycler_inline_vertical {
     float: right;
     margin: 0 0 5px 20px;
     width: 360px;
 }
 .cycler_inline {
     height: 241px;
+}
+.cycler_inline_vertical {
+    height: 480px;
 }
 a.social-media {
     background:transparent url(../images/social-media-icons.png) 0 0 no-repeat;
@@ -187,6 +193,7 @@ a.li {background-position:0 -194px;}   /* li = LinkedIn */
 /******** FOOTER ********/
 /************************/
 footer {
+    background-color: rgb(255,255,255);
     background-color: rgba(255,255,255,0.6);
     clear: both;
     color: $blackish;

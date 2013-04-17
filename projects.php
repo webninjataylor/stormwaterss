@@ -10,16 +10,20 @@
     <?php include('includes/menu.php'); ?>
     <article>
         <h1>Project Portfolio</h1>
+        
         <h2 class="first">Tiered Bioretention Facility</h2>
         <div id="cycler2" class="cycler cycler_inline">
             <img class="active" src="images/tbf1.jpg">
             <img src="images/tbf2.jpg">
             <img src="images/tbf3.jpg">    
         </div>
-        
         <p>The tight clay soils and significant relief of Stokes County, North Carolina created a unique challenge in treating runoff from a school parking lot. The result was a tiered bioretention facility. The top bioretention cell accepts runoff from the 1.72-acre parking lot, allowing it to infiltration through the 3-foot bioretention media. The media is unique in that washed granite screenings from a nearby quarry were used in lieu of coarse sand, resulting in decreased costs and transportation requirements. Drainage from the top cell, as well as any overflow, is directed to the bottom cell for further treatment. Kathy designed this practice and provided construction oversight.</p>
 
         <h2>Rainwater Harvesting System for Animal Shelter</h2>
+        <div id="cycler3" class="cycler cycler_inline_vertical">
+            <img class="active" src="images/as1.jpg">
+            <img src="images/as2.jpg">
+        </div>
         <p>A 6,000 gallon rainwater harvesting system was designed and installed at the Craven County Animal Shelter in New Bern, NC. The system accepts runoff from approximately 5,250ft2 and the harvested rainwater is used to flush the trench that drains kennels housing animals awaiting adoption. A municipal backup water supply was included in the design in the event the tanks went dry (which has yet to happen!). During the first 1.5 years of use, the animal shelter utilized 60,000 gallons of rainwater!</p>
 
         <h2>North Carolina LID Manual Contributions &amp; Spreadsheet Model</h2>
