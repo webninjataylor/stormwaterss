@@ -12,7 +12,7 @@
         <h1>Contact</h1>
         <p>Kathy M. DeBusk, P.E.<br>
             Stormwater Solutions and Services, LLC<br>
-            Email: kdebusk@stormwaterss.com<br>
+            <a href="mailto:kdebusk@stormwaterss.com">Email: kdebusk@stormwaterss.com</a><br>
             Phone: (434) 294-2175</p>
     </article>
     <?php include('includes/footer.php'); ?>
