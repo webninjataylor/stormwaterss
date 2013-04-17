@@ -114,7 +114,7 @@ menu li ul li a {
 /******** CONTENT ********/
 /*************************/
 h1 {
-    border-bottom: 1px solid #cccccc;
+    border-bottom: 1px solid #333;
     font-family: sans-serif;
     font-size: 1.3em;
     margin-top: 0;
@@ -122,19 +122,17 @@ h1 {
     text-transform: uppercase;
 }
 h2 {
-    border-bottom: 1px solid #cccccc;
+    border-bottom: 1px solid #333;
     font-size: 1em;
 }
 h3 {
     font-size: 1em;
 }
 article {
-    background-color: $whiteish;
+    background-color: rgba(255,255,255,0.6);
     float: right;
     line-height: 1.5;
-    /*min-height: 610px;*/
     margin: 10px 0 0 0;
-    opacity: .8;
     padding: 30px 61px 30px 30px;
     text-align: justify;
     width: 719px;
@@ -142,7 +140,8 @@ article {
 article p,
 article li {
     font-family: sans-serif;
-    font-size: .9em;
+    font-size: 1em;
+    line-height: 1.7em;
 }
 article ul {
     margin-left: 30px;
@@ -172,11 +171,10 @@ a.li {background-position:0 -194px;}   /* li = LinkedIn */
 /******** FOOTER ********/
 /************************/
 footer {
-    background-color: $whiteish;
+    background-color: rgba(255,255,255,0.6);
     clear: both;
     color: $blackish;
-    font-size: .9em;
-    opacity: .8;
+    font-size: .8em;
     margin: 0 0 20px 150px;
     padding: 20px;
     position: relative;
