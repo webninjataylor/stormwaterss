@@ -10,7 +10,7 @@
     <?php include('includes/menu.php'); ?>
     <article>
         <h1>Project Portfolio</h1>
-        <p>Coming April 10, 2013</p>
+        <p>Coming April 2013</p>
     </article>
     <?php include('includes/footer.php'); ?>
 </body>
