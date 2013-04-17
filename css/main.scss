@@ -34,11 +34,11 @@ header img#logo {
     height: 110px;
     width: 535px;
 }
-#cycler img {
+.cycler img {
     position: absolute;
     z-index: 1;
 }
-#cycler img.active {
+.cycler img.active {
     z-index: 3;
 }
 /**********************/
@@ -124,6 +124,10 @@ h1 {
 h2 {
     border-bottom: 1px solid #333;
     font-size: 1em;
+    margin-top: 40px;
+}
+h2.first {
+    margin-top: 0;
 }
 h3 {
     font-size: 1em;
@@ -136,6 +140,11 @@ article {
     padding: 30px 61px 30px 30px;
     text-align: justify;
     width: 719px;
+}
+block {
+    display: block;
+    font-style: italic;
+    margin: 0 40px;
 }
 article p,
 article li {
@@ -152,10 +161,17 @@ article ul li {
     list-style-type: none;
     padding-left: 20px;
 }
-.content_image {
+article a:hover {
+    text-decoration: underline;
+}
+.content_image,
+.cycler_inline {
     float: right;
     margin: 0 0 5px 20px;
     width: 360px;
+}
+.cycler_inline {
+    height: 241px;
 }
 a.social-media {
     background:transparent url(../images/social-media-icons.png) 0 0 no-repeat;
