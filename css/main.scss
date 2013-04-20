@@ -167,8 +167,7 @@ article a:hover {
     text-decoration: underline;
 }
 .content_image,
-.cycler_inline,
-.cycler_inline_vertical {
+.cycler_inline {
     float: right;
     margin: 0 0 5px 20px;
     width: 360px;
@@ -176,8 +175,8 @@ article a:hover {
 .cycler_inline {
     height: 241px;
 }
-.cycler_inline_vertical {
-    height: 480px;
+.content_image_full {
+    width: 100%;
 }
 a.social-media {
     background:transparent url(../images/social-media-icons.png) 0 0 no-repeat;
