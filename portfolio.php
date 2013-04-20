@@ -2,14 +2,14 @@
 <html lang="en-US">
 <head>
     <meta charset="UTF-8">
-    <title>StormWaterss: Project Portfolio</title>
+    <title>StormWaterss: Portfolio</title>
     <?php include('includes/meta.php'); ?>
 </head>
 <body>
     <?php include('includes/header.php'); ?>
     <?php include('includes/menu.php'); ?>
     <article>
-        <h1>Project Portfolio</h1>
+        <h1>Portfolio</h1>
         
         <h2 class="first">Tiered Bioretention Facility</h2>
         <div id="cycler2" class="cycler cycler_inline">
