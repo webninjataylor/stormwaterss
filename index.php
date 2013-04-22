@@ -2,7 +2,7 @@
 <html lang="en-US">
 <head>
     <meta charset="UTF-8">
-    <title>StormWaterss</title>
+    <title>Stormwater Solutions and Services, LLC</title>
     <?php include('includes/meta.php'); ?>
 </head>
 <body>
@@ -10,8 +10,8 @@
     <?php include('includes/menu.php'); ?>
     <article>
         <h1>Home</h1>
-        <img src="images/home1.jpg" alt="" class="content_image">
-        <img src="images/home2.jpg" alt="" class="content_image">
+        <img src="images/home1.jpg" alt="Stormwater runoff from street" class="content_image">
+        <img src="images/home2.jpg" alt="Rainwater harvesting system for fire department" class="content_image">
         <p>Stormwater Solutions and Services (SSS) is an environmental consulting firm that offers a wide array of solutions and services for residential, commercial and municipal stormwater issues in North Carolina and Virginia, including:</p>
         <ul>
             <li>Stormwater engineering and design</li>
