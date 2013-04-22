@@ -50,12 +50,14 @@
         </div>
         <p>Kathy designed and installed a 12,000 gallon rainwater harvesting system at River Bend Country Club in New Bern, NC. Runoff was collected from 6,500ft<sup>2</sup> of the pool deck and 6,600ft<sup>2</sup> of roof surface. Due to the flat topography in this coastal area, an underground tank and pump system was used to convey the runoff to the 3 aboveground storage tanks. The collected rainwater was used for irrigating the turfgrass surrounding the pool and tennis courts. Unlike many irrigation applications, this system was designed to irrigate year-round to facilitate stormwater management. This resulted in a substantial reduction in flooding around the tennis courts and maintenance buildings, as well as a reduction in the stormwater fee issued by the town of River Bend.</p>
 
-        <h2>Stormwater Wetland for Parking Lot Runoff</h2>
-        <div id="cycler6" class="cycler cycler_inline">
-            <img class="active" src="images/wetland1.jpg">
-            <img src="images/wetland2.gif">
+        <div class="project">
+            <h2>Stormwater Wetland for Parking Lot Runoff</h2>
+            <div id="cycler6" class="cycler cycler_inline">
+                <img class="active" src="images/wetland1.jpg">
+                <img src="images/wetland2.gif">
+            </div>
+            <p>This wetland was designed for an industrial processing facility in Wilson County for treatment of stormwater runoff from the adjacent parking lot. The 33,000ft<sup>2</sup> wetland is slightly undersized for the contributing drainage area, but still provides substantial mitigation and treatment of the contributing runoff.</p>
         </div>
-        <p>This wetland was designed for an industrial processing facility in Wilson County for treatment of stormwater runoff from the adjacent parking lot. The 33,000ft<sup>2</sup> wetland is slightly undersized for the contributing drainage area, but still provides substantial mitigation and treatment of the contributing runoff.</p>
 
         <h2>Rainwater Harvesting System for Irrigation &amp; Stormwater Management</h2>
         <div id="cycler7" class="cycler cycler_inline">
