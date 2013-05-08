@@ -17,7 +17,7 @@
             <li>Stormwater engineering and design</li>
             <li>Stormwater practice inspection, maintenance, and restoration</li>
             <li>Watershed/municipality modeling, monitoring and assessment</li>
-            <li>Local program and model ordinance development assistance</li>
+            <li>Local program and ordinance development assistance</li>
             <li>Local, state and federal stormwater regulation interpretation and guidance</li>
             <li>Stormwater management feasibility studies for watersheds and/or municipalities</li>
         </ul>
