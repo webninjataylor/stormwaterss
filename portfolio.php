@@ -18,7 +18,7 @@
                 <img src="images/tbf2.jpg" alt="Tiered Bioretention Facility">
                 <img src="images/tbf3.jpg" alt="Tiered Bioretention Facility">    
             </div>
-            <p>The tight clay soils and significant relief of Stokes County, North Carolina created a unique challenge in treating runoff from a school parking lot. The result was a tiered bioretention facility. The top bioretention cell accepts runoff from the 1.72-acre parking lot, allowing it to infiltration through the 3-foot bioretention media. The media is unique in that washed granite screenings from a nearby quarry were used in lieu of coarse sand, resulting in decreased costs and transportation requirements. Drainage from the top cell, as well as any overflow, is directed to the bottom cell for further treatment. Kathy designed this practice and provided construction oversight.</p>
+            <p>The tight clay soils and significant relief of Stokes County, North Carolina created a unique challenge in treating runoff from a school parking lot. The result was a tiered bioretention facility. The top bioretention cell accepts runoff from the 1.72-acre parking lot, allowing it to infiltrate through the 3-foot bioretention media. The media is unique in that washed granite screenings from a nearby quarry were used in lieu of coarse sand, resulting in decreased costs and transportation requirements. Drainage from the top cell, as well as any overflow, is directed to the bottom cell for further treatment. Kathy designed this practice and provided construction oversight.</p>
         </div>
 
         <div class="project">
