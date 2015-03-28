@@ -12,7 +12,20 @@
         <h1>Portfolio</h1>
         
         <div class="project">
-            <h2 class="first">Tiered Bioretention Facility</h2>
+            <h2 class="first">Sub-consultant for On-Call Stormwater Management Consulting Services for the City of Greensboro, North Carolina</h2>
+            <p>SSS, LLC currently serves as a sub-consultant to ARCADIS U.S., Inc. for on-call stormwater support services for the city of Greensboro, North Carolina. Services provided as part of this project include stormwater engineering and design, stormwater practice inspection and assessment, monitoring services, and stormwater management feasibility studies.</p>
+        </div>
+
+        <div class="project">
+            <h2>Revision and Update of the Jordan/Falls Lake Stormwater Nutrient Load Accounting Tool</h2>
+            <div class="cycler cycler_inline">
+                <img class="active" src="images/accounting.jpg" alt="Jordan/Falls Lake Stormwater Nutrient Load Accounting Tool">  
+            </div>
+            <p>Stormwater Solutions and Services, LLC was hired in 2013 to improve the functionality and flexibility of the existing Excel-based <a href="http://portal.ncdenr.org/web/jordanlake" target="_blank">Jordan</a>/<a href="http://portal.ncdenr.org/web/wq/ps/nps/fallslake" target="_blank">Falls</a> Lake Stormwater Nutrient Load Accounting Tool. Revisions to the tool included the incorporation of new best management practices and the ability to add additional practices in the future, the correction of several small programming errors and a more transparent, user-friendly format. Additionally, complete users' and owners' manuals were produced, as well as a high-quality training video on how to appropriately use and apply the tool. It is expected that this updated version of the tool will be the one used in conjunction with the <a href="http://portal.ncdenr.org/web/jordanlake" target="_blank">Jordan</a> and <a href="http://portal.ncdenr.org/web/wq/ps/nps/fallslake" target="_blank">Falls</a> Lake Nutrient Strategies.</p>
+        </div>
+
+        <div class="project">
+            <h2>Tiered Bioretention Facility</h2>
             <div id="cycler2" class="cycler cycler_inline">
                 <img class="active" src="images/tbf1.jpg" alt="Tiered Bioretention Facility">
                 <img src="images/tbf2.jpg" alt="Tiered Bioretention Facility">
@@ -37,7 +50,7 @@
                 <img src="images/lid2.jpg" alt="Spreadsheet Model">
             </div>
             <p>The North Carolina Low Impact Development (LID) Guidebook was published in 2009 by a collection of numerous individuals and agencies. Kathy provided verbiage and guidance for Chapter 2: Achieving LID Performance Goals Using A Hydrologic Cycle Approach. Additionally, Kathy developed a complimentary spreadsheet model that allows users to compare a site's post-development hydrology to three different pre-development scenarios.</p>
-            <p><a href="http://www.ces.ncsu.edu/depts/agecon/WECO/lidguidebook/">View more information on the NC LID initiative, Guidebook, and Model.</a></p>
+            <p><a href="http://www.ces.ncsu.edu/depts/agecon/WECO/lidguidebook/" target="_blank">View more information on the NC LID initiative, Guidebook, and Model.</a></p>
         </div>
 
         <div class="project">
@@ -45,9 +58,9 @@
             <img class="content_image_full" src="images/ncjf.jpg" alt="Spreadsheet Model Accounting Tool">
             <p>Kathy developed a spreadsheet model to be used by developers and municipalities in accordance with new Jordan and Falls Lake regulations in the state of North Carolina. This accounting tool is designed to estimate runoff volume and pollutant loadings from developments and reductions in these loadings provided by various best management practices. While developed specifically for application within the Jordan and Falls lake watersheds, the tool possesses the flexibility to be applied state-wide, but both new development and retrofit applications.</p>
             <p>
-                <a href="http://portal.ncdenr.org/web/jordanlake/implementation-guidance-archive">Access the accounting tool and the User's Manual</a><br>
-                <a href="http://portal.ncdenr.org/web/jordanlake">View more information about the Jordan Lake Nutrient Strategies</a><br>
-                <a href="http://portal.ncdenr.org/web/wq/ps/nps/fallslake">View more information about the Falls Lake Nutrient Strategies</a>
+                <a href="http://portal.ncdenr.org/web/jordanlake/implementation-guidance-archive" target="_blank">Access the accounting tool and the User's Manual</a><br>
+                <a href="http://portal.ncdenr.org/web/jordanlake" target="_blank">View more information about the Jordan Lake Nutrient Strategies</a><br>
+                <a href="http://portal.ncdenr.org/web/wq/ps/nps/fallslake" target="_blank">View more information about the Falls Lake Nutrient Strategies</a>
             </p>
         </div>
 
@@ -96,7 +109,7 @@
                 <img src="images/urban2.gif" alt="Urban Stormwater Retrofit Feasibility and Economic Study - Diagram 2">
                 <img src="images/urban3.gif" alt="Urban Stormwater Retrofit Feasibility and Economic Study - Diagram 3">
             </div>
-            <p>Kathy was project lead on a multi-municipality feasibility study conducted in North Carolina. The following verbiage was taken from the <a href="http://www.ncsu.edu/wrri/pdfs/research/Projects2008/50382HuntReport.pdf">final project report</a>, which was written by Kathy and Dr. Bill Hunt.</p>
+            <p>Kathy was project lead on a multi-municipality feasibility study conducted in North Carolina. The following verbiage was taken from the <a href="http://www.ncsu.edu/wrri/pdfs/research/Projects2008/50382HuntReport.pdf" target="_blank">final project report</a>, which was written by Kathy and Dr. Bill Hunt.</p>
             <block>
                 <p>New regulations in the state of North Carolina, USA, require all communities within the Jordan Lake watershed – a water supply watershed – to reduce their nitrogen and phosphorus loadings to the lake by establishing stromwater control measures (SCMs) for new and existing development (NCDENR 2009). It is anticipated that these new regulations will be emulated in many urban areas across the state of North Carolina and the United States. As such, it is important to understand the feasibility, both physically and economically, of implementing such practices. The goal of this project was to evaluate the feasibility and cost-effectiveness of treating stormwater in urban areas that have already been developed. Furthermore, it was necessary to determine if the state-mandated nitrogen and phosphorus reduction goals of 8% and 5%, respectively, for existing development within the watershed were attainable via retrofit stormwater management practices. Seven North Carolina cities, that are members of the Urban Water Consortium Stormwater Group, served as the study locations: Raleigh, Durham, Greensboro, Wilmington, High Point, Winston-Salem and Charlotte. One watershed, between 260 and 520 ha, was selected from each of these cities for analysis. An eighth watershed was chosen from Greensboro as well. A ninth larger watershed was analyzed as well, though emphasis was placed on identifying large, regional SCMs as opposed to smaller, site-specific practices.</p>
                 <p>Annual total phosphorus and total nitrogen load reductions, as well as design, construction, land and maintenance costs were estimated. Results indicated that the quantity and type of retrofit opportunities were dictated primarily by land use, with commercial and industrial providing the most opportunities and rural and ultra-urban areas providing the least. Watersheds with greater numbers of retrofit practices produced higher potential load reduction estimates, indicating that focusing retrofit efforts on land uses that traditionally offer the most retrofit opportunities will most likely result in the highest pollutant load reductions. It was determined that certain site-specific stormwater control measures, namely level spreader-filter strips, constructed wetlands and bioretention often provide the most pollutant removal for the least amount of cost. Finally, the use of larger, regional SCMs provided a discernable benefit (for water quality improvement or economically) over smaller, site-specific practices.</p>
